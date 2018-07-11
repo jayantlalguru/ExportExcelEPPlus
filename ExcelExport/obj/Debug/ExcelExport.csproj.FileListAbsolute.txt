@@ -1,0 +1,7 @@
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExport\bin\Debug\ExcelExport.dll
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExport\bin\Debug\ExcelExport.pdb
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExport\bin\Debug\EPPlus.dll
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExport\bin\Debug\EPPlus.xml
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExport\obj\Debug\ExcelExport.csproj.CoreCompileInputs.cache
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExport\obj\Debug\ExcelExport.dll
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExport\obj\Debug\ExcelExport.pdb

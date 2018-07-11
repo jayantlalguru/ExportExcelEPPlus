@@ -1,0 +1,11 @@
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExportUsingEPPlus\bin\Debug\ExcelExportUsingEPPlus.exe.config
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExportUsingEPPlus\bin\Debug\ExcelExportUsingEPPlus.exe
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExportUsingEPPlus\bin\Debug\ExcelExportUsingEPPlus.pdb
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExportUsingEPPlus\bin\Debug\ExcelExport.dll
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExportUsingEPPlus\bin\Debug\EPPlus.dll
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExportUsingEPPlus\bin\Debug\ExcelExport.pdb
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExportUsingEPPlus\bin\Debug\EPPlus.xml
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExportUsingEPPlus\obj\Debug\ExcelExportUsingEPPlus.csprojResolveAssemblyReference.cache
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExportUsingEPPlus\obj\Debug\ExcelExportUsingEPPlus.csproj.CoreCompileInputs.cache
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExportUsingEPPlus\obj\Debug\ExcelExportUsingEPPlus.exe
+D:\Work\Projects\DotNet\PracticeProjects\ExcelExportUsingEPPlus\ExcelExportUsingEPPlus\obj\Debug\ExcelExportUsingEPPlus.pdb
